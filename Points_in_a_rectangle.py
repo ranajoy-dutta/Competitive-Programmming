@@ -12,9 +12,9 @@ N lines follows - each line containing - X Y coordinate of the point.
 Output :: Output in T lines, the answer to each test case.
 """
 
-t = int(input())      //test cases
+t = int(input())                                #test cases
 while t > 0:
-     x1,y1,x2,y2 = map(int,input().split())     //input coordinates
+     x1,y1,x2,y2 = map(int,input().split())     #input coordinates
      maxx=max(x1,x2)                           
      minx=min(x1,x2)
      maxy=max(y1,y2)
