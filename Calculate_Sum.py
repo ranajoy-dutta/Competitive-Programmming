@@ -12,7 +12,7 @@ Input::  The first Line of input consist of T - the number of test cases. T line
 Output :: Output in T lines the answer to each test case.
 """
 
-t=int(input())  // test cases
+t=int(input())                           # test cases
 mod=1000000007
 while t>0:
     n=int(input())   
