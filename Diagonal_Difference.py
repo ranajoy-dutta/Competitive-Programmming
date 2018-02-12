@@ -13,15 +13,6 @@ Sample Input
 Sample Output
 15
 """
-
-def diagonalDifference(a):
-    difference = sum(row[i] - row[-i-1] for i, row in enumerate(a))
-    return abs(difference)
-
-#!/bin/python3
-
-import sys
-
 def diagonalDifference(a):
     difference = sum(row[i] - row[-i-1] for i, row in enumerate(a))
     return abs(difference)
