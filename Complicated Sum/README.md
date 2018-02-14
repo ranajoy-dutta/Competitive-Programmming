@@ -12,4 +12,4 @@ Input ::
 The first Line of input consist of T - the number of test cases. T lines follows - each consisting of single integer n
 
 Output :: 
-Output in T lines the answer to each test case.
+Output in T lines the answer to each test case. 
