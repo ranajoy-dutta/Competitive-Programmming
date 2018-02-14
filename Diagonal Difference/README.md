@@ -1,4 +1,4 @@
-##Diagonal Difference
+## Diagonal Difference
 > **Find the difference between sum of diagonals of square matrix**
 
 Given a square matrix of size , calculate the absolute difference between the sums of its diagonals.
