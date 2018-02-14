@@ -10,5 +10,5 @@ Next line consists of N
 N lines follows - each line containing - X Y coordinate of the point.
 
 **Output**
-Output in T lines, the answer to each test case.
+Output in T lines, the answer to each test case. 
 
