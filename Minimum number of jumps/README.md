@@ -22,4 +22,4 @@ Each seperate line showing the minimum number of jumps. If answer is not possibl
 >1 3 5 8 9 2 6 7 6 8 9
 
 >Output
->3    
+>3  
