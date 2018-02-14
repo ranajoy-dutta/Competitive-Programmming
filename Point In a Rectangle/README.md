@@ -1,4 +1,4 @@
-##Points in a rectangle
+## Points in a rectangle
 
 **Given a rectangle with sides parallel to X and Y axis and N points in X-Y co-ordinates, print the total number of points that lie strictly inside the rectangle.**
 
