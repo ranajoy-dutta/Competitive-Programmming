@@ -1,4 +1,4 @@
-##Reduce the Fraction
+## Reduce the Fraction
 
 **You are given a fraction - A/B.
 Reduce the fraction to the lowest possible.**
