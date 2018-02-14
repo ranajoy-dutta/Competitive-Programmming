@@ -1,10 +1,3 @@
-"""You are given a fraction - A/B.
-Reduce the fraction to the lowest possible.
-
-Input :: First line consist of T - the number of test cases. T lines follows - each consisting of 2 numbers A B.
-
-Output :: Output T lines - In each line print the answer in the form P/Q. """
-
 from fractions import Fraction      #importing library
 def gcd(x, y):                      #function to find GCD
     while y != 0:
