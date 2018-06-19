@@ -1,4 +1,3 @@
-from fractions import Fraction      #importing library
 def gcd(x, y):                      #function to find GCD
     while y != 0:
         (x, y) = (y, x % y)
