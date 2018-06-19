@@ -1,6 +1,6 @@
 ## Product of maximum in first array and minimum in second
 
-**Given two arrays of size N1 and N2 respectively, the task is to calculate the product of max element of first array and min element of second array.**
+> **Given two arrays of size N1 and N2 respectively, the task is to calculate the product of max element of first array and min element of second array.**
 
 **Input**
 The first line of the input contains a single integer T, denoting the number of test cases. Then T test case follows. Each testcase contains 4 lines:-

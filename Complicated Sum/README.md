@@ -1,6 +1,5 @@
 ## Complicated Sum
-
-**Considering the code below, Calculate the final value of sum if n is provided as input.**
+> **Considering the code below, Calculate the final value of sum if n is provided as input.**
 
 M = 1000000007
 long long int sum = 0;

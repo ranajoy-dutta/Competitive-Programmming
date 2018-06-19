@@ -1,6 +1,6 @@
 ## Convert a list of characters into string
 
-**Given a list of characters, merge all of them into a string.**
+> **Given a list of characters, merge all of them into a string.**
 
 **Input**
 First line of the input contains an integer T, denoting the number of testcases. Then T test case follows. Each testcase contains two lines:-
