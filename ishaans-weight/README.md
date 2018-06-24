@@ -3,25 +3,25 @@
 For every K pushups Ishaan does, Charul will give him money equal to the number of pushups Ishaan has done till then (Refer Example for Explanation).
 Find out the amount of money he made if he does N pushups.**
 
-**Input Format**__
-The first line of input contains a single integer T denoting the number of test cases.
+**Input Format** <br/>
+The first line of input contains a single integer T denoting the number of test cases.<br/>
 The only line of each test case contains 2 space-separated integers N and K.
 
-**Output Format** __
+**Output Format** <br/>
 For each test case, print the required answer in a new line.
 
-**Constraints**__
-1 <= T <= 200
-1 <= N <= 10^9
-1 <= K <= 10^5
+**Constraints** <br/>
+1 <= T <= 200<br/>
+1 <= N <= 10^9<br/>
+1 <= K <= 10^5<br/>
 
-**Sample Input**__
-3
-5 2
-5 3
-5 6
+**Sample Input**<br/>
+3<br/>
+5 2<br/>
+5 3<br/>
+5 6<br/>
 
-**Sample Output**
-6
-3
-0
+**Sample Output**<br/>
+6<br/>
+3<br/>
+0<br/>
