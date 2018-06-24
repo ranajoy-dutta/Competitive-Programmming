@@ -2,21 +2,21 @@
 
 > **Given a list of characters, merge all of them into a string.**
 
-**Input**
-First line of the input contains an integer T, denoting the number of testcases. Then T test case follows. Each testcase contains two lines:-
-The number of characters in the array N.
-The array of characters separated by space
+**Input**<br/>
+First line of the input contains an integer T, denoting the number of testcases. Then T test case follows. Each testcase contains two lines:-<br/>
+The number of characters in the array N.<br/>
+The array of characters separated by space<br/>
 
-**Output** 
-For each testcase, print the character array converted into a string.
+**Output** <br/>
+For each testcase, print the character array converted into a string.<br/>
 
-**Sample Input**
-2
-13
-g e e k s f o r g e e k s
-11
-p r o g r a m m i n g
+**Sample Input**<br/>
+2<br/>
+13<br/>
+g e e k s f o r g e e k s<br/>
+11<br/>
+p r o g r a m m i n g<br/>
 
-**Sample Output**
-geeksforgeeks
-programming
+**Sample Output**<br/>
+geeksforgeeks<br/>
+programming<br/>

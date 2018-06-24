@@ -1,19 +1,19 @@
 ## Diagonal Difference
 > **Find the difference between sum of diagonals of square matrix**
-
+<br/>
 Given a square matrix of size , calculate the absolute difference between the sums of its diagonals.
 
-**Input Format**
-The first line contains a single integer, . The next  lines denote the matrix's rows, with each line containing space-separated integers describing the columns.
+**Input Format**<br/>
+The first line contains a single integer, . The next  lines denote the matrix's rows, with each line containing space-separated integers describing the columns.<br/>
 
-**Output Format** 
-Print the absolute difference between the two sums of the matrix's diagonals as a single integer.
+**Output Format** <br/>
+Print the absolute difference between the two sums of the matrix's diagonals as a single integer.<br/>
 
-**Sample Input**
-3
-11 2 4
-4 5 6
-10 8 -12
+**Sample Input**<br/>
+3<br/>
+11 2 4<br/>
+4 5 6<br/>
+10 8 -12<br/>
 
-**Sample Output**
-15
+**Sample Output**<br/>
+15<br/>

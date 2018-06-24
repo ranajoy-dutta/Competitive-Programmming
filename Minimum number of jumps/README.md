@@ -4,17 +4,17 @@
 Write a function to return the minimum number of jumps to reach the end of the array (starting from the first element). 
 If an element is 0, then cannot move through that element.**
 
-**Input** 
-The first line contains an integer T, depicting total number of test cases. 
+**Input** <br/>
+The first line contains an integer T, depicting total number of test cases. <br/>
 Then following T lines contains a number n denoting the size of the array. Next line contains the sequence of integers a1,?a2,?...,?an.
 
-**Output**
-Each seperate line showing the minimum number of jumps. If answer is not possible print -1.
+**Output**<br/>
+Each seperate line showing the minimum number of jumps. If answer is not possible print -1.<br/>
 
-**Constraints**
-1 = T = 40
-1 = N = 100
-0<=a[N]<=100
+**Constraints**<br/>
+1 = T = 40<br/>
+1 = N = 100<br/>
+0<=a[N]<=100<br/>
 
 >Example
 >Input:
