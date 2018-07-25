@@ -11,9 +11,8 @@ The 2N subsequent lines describe each student over 2 lines; the first line conta
 Print the name(s) of any student(s) having the second lowest grade in Physics; if there are multiple students, order their names alphabetically and print each one on a new line.<br/><br/>
 
 **Constraints**<br/>
-2 <= N <= 5
+2 <= N <= 5<br>
 There will always be one or more students having the second lowest grade.<br/><br/>
-<br/><br/>
 
 **Sample Input**<br/>
 5<br/>
