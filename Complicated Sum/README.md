@@ -1,6 +1,6 @@
 ## Complicated Sum
 > **Considering the code below, Calculate the final value of sum if n is provided as input.**
-<br/>
+
 M = 1000000007<br/>
 long long int sum = 0;<br/>
 for (long long int i = 1;i<=n;i++) {<br/>
