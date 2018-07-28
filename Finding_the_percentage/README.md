@@ -5,19 +5,19 @@
 The first line contains the integer N, the number of students. The next N lines contains the name and marks obtained by that student separated by a space. The final line contains the name of a particular student previously listed.<br/>
 
 **Output Format** <br/>
-Print one line: The average of the marks obtained by the particular student correct to 2 decimal places.<br/><br/>
+Print one line: The average of the marks obtained by the particular student correct to 2 decimal places.<br>
 
 **Constraints**<br/>
 2 <= N <= 10<br/>
 0 <= Marks <= 100
-<br/><br/>
+<br/>
 
 **Sample Input**<br/>
 3<br/>
 Krishna 67 68 69<br/>
 Arjun 70 98 63<br/>
 Malika 52 56 60<br/>
-Malika<br/><br/>
+Malika<br/>
 
 **Sample Output**<br/>
 56.00
