@@ -1,6 +1,6 @@
 ## Merge The Tools
-Consider the following:
-A string, s, of length n.
+Consider the following:<br/>
+A string, s, of length n.<br>
 An integer, k, where k is a factor of n.
 We can split s into n/k subsegments where each subsegment, t(i), consists of a contiguous block of k characters in s.
 Then, use each t(i) to create string u(i) such that:
