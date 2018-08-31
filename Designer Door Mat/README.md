@@ -35,7 +35,7 @@ A single line containing the space separated values of N and M.<br/>
 Output the design pattern.<br/>
 
 **Sample Input**<br/>
-9 27<br>
+9 27
 
 **Sample Output**<br/>
 ------------.|.------------<br/>
