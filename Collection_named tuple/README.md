@@ -11,7 +11,7 @@ Next N lines will contain marks and name of the students respective of column he
 
 **Constraints**<br/>
 1 <= N <= 10^3<br/>
-0 <= Marks <= 100<br/><br/>
+0 <= Marks <= 100<br/>
 
 **Output Format** <br/>
 Output the average marks of the class rounded off to two decimal places.
