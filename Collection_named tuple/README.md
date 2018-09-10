@@ -21,7 +21,7 @@ Output the average marks of the class rounded off to two decimal places.
 marks names<br/>
 10 arpit<br/>
 20 anushka<br/>
-35 rakshita<br/><br/>
+35 rakshita<br/>
 
 **Sample Output**<br/>
 21.67
