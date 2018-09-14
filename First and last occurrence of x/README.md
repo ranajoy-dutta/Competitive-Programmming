@@ -23,4 +23,4 @@ For each test case in a new line print two integers separated by space denoting 
 
 **Sample Output**
 2 5
-6 6
+6 6 
