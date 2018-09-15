@@ -14,4 +14,4 @@ a a c d<br/>
 2<br/>
 
 **Sample Output**<br/>
-0.8333
+0.8333 
