@@ -11,7 +11,7 @@ jumpingOnClouds has the following parameter(s):
 <ul><li>c: an array of binary integers</li></ul>
 <br>
 **Input Format**<br/>
-The first line contains an integer <b><i>n<i></b>, the total number of clouds. The second line contains <b><i>n<i></b> space-separated binary integers describing clouds <b><i>c[i]<i></b> where <b><i>0 <= i <= n<i></b>.<br/>
+The first line contains an integer <b><i>n</i></b>, the total number of clouds. The second line contains <b><i>n</i></b> space-separated binary integers describing clouds <b><i>c[i]</i></b> where <b><i>0 <= i <= n</i></b>.<br/>
 
 **Output Format** <br/>
 Print the minimum number of jumps needed to win the game.<br>
