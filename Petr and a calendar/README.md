@@ -15,7 +15,6 @@ Petr wants to know how many columns his table should have given the month and th
 <b>Input Format</b><br/>You will be given a function with two integers m and d as arguments.<br/><br/>
 <b>Constraints</b><br/>
 1 <= m <= 12<br/>1 <= d <= 7<br/><br/>
-
 <b>Output Format</b><br/>You need to return single integer: the number of columns the table should have..<br/><br/>
 <b>Sample Input</b><br/>1<br/>7<br/><br/>
 <b>Sample Output</b><br/>6
