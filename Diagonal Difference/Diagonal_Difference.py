@@ -1,6 +1,13 @@
-def diagonalDifference(a):
-    difference = sum(row[i] - row[-i-1] for i, row in enumerate(a))
-    return abs(difference)
+def diagonalDifference(arr):
+    v_sum = 0
+    lcounter = 0
+    rcounter = len(arr[0])-1
+    for i in arr:
+        v_sum = v_sum + i[lcounter] - i[rcounter]
+        lcounter+=1
+        rcounter-=1
+    return abs(v_sum)
+
 
 n = int(input().strip())
 a = []
